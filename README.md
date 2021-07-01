@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @The-Ally-Belly
-- 👀 I’m interested in SQL and pandas.
-- 🌱 I’m currently learning SQl, Python and Machine Learning
+- 👀 I’m interested in understanding datas and numbers.
+- 🌱 Currently learning Data Science and Machine Learning
 
 
 <!---
