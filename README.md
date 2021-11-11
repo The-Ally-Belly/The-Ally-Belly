@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @The-Ally-Belly
-- 👀 I’m interested in understanding datas and numbers.
-- 🌱 Currently learning Data Science and Machine Learning
+- 👀 I’m interested in understanding, analysing, and using data.
 
 
 <!---
